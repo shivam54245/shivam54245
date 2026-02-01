@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and MySQL
 - 💞️ I’m looking to collaborate on simpler/beginner projects
 - 📫 How to reach me at shivam54245@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/They/She
 - ⚡ Fun fact: I have yet to learn touch typing.
 
 <!---
