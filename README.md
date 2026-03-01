@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivam54245
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python and MySQL
+- 🌱 I’m currently learning WebGL with Unity
 - 💞️ I’m looking to collaborate on simpler/beginner projects
 - 📫 How to reach me at shivam54245@gmail.com
 - 😄 Pronouns: He/Him
