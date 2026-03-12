@@ -1,5 +1,5 @@
 
-import * as Three from "https://unpkg.com/three@0.160.0/build/three.min.js";
+import * as THREE from "https://unpkg.com/three@0.160.0/build/three.module.js";
 
 const scene = new Three.Scene();
 const camera = new Three.PerspectiveCamera(80, window.innerWidth / window.innerHeight);
