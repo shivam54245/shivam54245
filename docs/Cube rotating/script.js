@@ -22,6 +22,7 @@ scene.add(cuboid);
 
 
 
+animate();
 
 function animate() {
     requestAnimationFrame(animate);
@@ -31,4 +32,3 @@ function animate() {
 
     renderer.render(scene, camera);
     }
-    animate();
