@@ -1,18 +1,18 @@
 
-import * as Three from "https://unpkg.com/three@0.160.0/build/three.module.js";
+import * as THREE from "https://unpkg.com/three@0.160.0/build/three.module.js";
 
-const scene = new Three.Scene();
-const camera = new Three.PerspectiveCamera(80, window.innerWidth / window.innerHeight);
-const renderer = new Three.WebGLRenderer({antialias : true});
+const scene = new THREE.Scene();
+const camera = new THREE.PerspectiveCamera(80, window.innerWidth / window.innerHeight);
+const renderer = new THREE.WebGLRenderer({antialias : true});
 
 camera.position.z = 5;
 renderer.setSize(window.innerWidth, window.innerHeight);
 
 document.body.appendChild(renderer.domElement);      // sad idk
 
-const geometry = new Three.BoxGeometry(1, 2, 3);
-const green_material = new Three.MeshBasicMaterial({color : "rgb(97, 233, 126)", wireframe : true});
-const cuboid = new Three.Mesh(geometry, green_material);
+const geometry = new THREE.BoxGeometry(1, 2, 3);
+const green_material = new THREE.MeshBasicMaterial({color : "rgb(97, 233, 126)", wireframe : true});
+const cuboid = new THREE.Mesh(geometry, green_material);
 
 scene.add(cuboid);
 
