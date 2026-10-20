@@ -1,18 +1,7 @@
 - 👋 Hi, I’m @shivam54245
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning WebGL with Unity
-- 💞️ I’m looking to collaborate on simpler/beginner projects. 
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning Design Patterns for SWE
+- 💞️ I’m open to collaborate on medium complexity projects. 
 - 📫 Reach me at shivam54245@gmail.com
 - 😄 Pronouns: She/They
-- ⚡ Fun fact: I am currently in the process of learning to touch type.
-
-<br>
-
-
-<h2> <a href = "https://shivam54245.github.io/shivam54245/"> My Experimental Website! </a> </h2>
-
-<br> <br> 
-<h3> Other Stuff </h3>
-<a href = "https://silly-hail-f25.notion.site/3b3b1ece5c68809196ebd0bd94ac7bc4?v=3b3b1ece5c6880439199000c7b0e0d45">    Study Materials for 3rd Semester - Notion Link </a>
-
-    
+- ⚡ Fun fact: Idk, I love Neovim keybinds ig? Without knowing how to properly touch type.
